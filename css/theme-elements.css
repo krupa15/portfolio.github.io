@@ -15417,6 +15417,16 @@ html.boxed .slider-container {
 	background: #25d366 !important;
 }
 
+.social-icons li:hover.social-icons-behance a {
+	background: black !important;
+}
+
+.social-icons li:hover.social-icons-instagram a {
+	background: linear-gradient(217deg, rgba(150,47,91,.8), rgba(214,41,118,.2) 70.71%),
+	linear-gradient(127deg, rgba(79,91,213,.8), rgba(254,218,117,.5) 70.71%),
+	linear-gradient(336deg, rgba(250,126,30,.8), rgba(214,41,118,.2) 70.71%) !important;
+}
+
 .social-icons.social-icons-dark li a {
 	background: #181818;
 }
